@@ -4,4 +4,4 @@
 
 💻 Estou em transição de carreira e, atualmente, estou aprende Desenvolvimento Web na Trybe.
 
-📬 Você pode entrar em contato comigo pelo meu https://www.linkedin.com/in/fabiane-malaquias-00287a228/.
+📬 Você pode entrar em contato comigo pelo meu Linkedin: https://www.linkedin.com/in/fabiane-malaquias-00287a228/.
