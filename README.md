@@ -1,4 +1,4 @@
-###  Olá! Eu sou a Fabiane Malaquias :confuse_dog
+###  Olá! 👋 Eu sou a Fabiane Malaquias 
 
 🌱  Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG.
 
