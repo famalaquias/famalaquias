@@ -16,7 +16,7 @@
 
 
 <div>
-<a href="https://github.com/famalaquias"> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=famalaquias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <a href="https://github.com/famalaquias"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famalaquias&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/famalaquias"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=famalaquias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <a href="https://github.com/famalaquias"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famalaquias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
