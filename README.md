@@ -25,19 +25,3 @@
          
 
 ###  Projetos
-<table>
-  <tr>
-    <td valign="top">
-      <h3 align="center">✨Solar System✨</h3>
-      <p align="center">
-        <a href="https://github.com/famalaquias/Projeto-Solar-System">Demo</a> |
-        <a href="https://github.com/famalaquias/Projeto-Solar-System">Repo</a>
-      </p>
-      <a href="https://github.com/famalaquias/Projeto-Solar-System">
-      <img
-          alt="Project-preview"
-       />
-      </a>
-    </td>
-  </tr>
-</table>
