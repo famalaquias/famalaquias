@@ -23,3 +23,21 @@
 ###  Tecnologias e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
          
+
+###  Projetos
+<table>
+  <tr>
+    <td valign="top">
+      <h3 align="center">✨Solar System✨</h3>
+      <p align="center">
+        <a href="https://github.com/famalaquias/Projeto-Solar-System">Demo</a> |
+        <a href="https://github.com/famalaquias/Projeto-Solar-System">Repo</a>
+      </p>
+      <a href="https://github.com/famalaquias/Projeto-Solar-System">
+      <img
+          alt="Project-preview"
+       />
+      </a>
+    </td>
+  </tr>
+</table>
