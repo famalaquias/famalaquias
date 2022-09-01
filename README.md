@@ -48,3 +48,9 @@
   <a href="mailto:malaquiasfr@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
   </a>
+       
+###
+
+##  
+![Snake animation](https://github.com/famalaquias/famalaquias/blob/output/github-contribution-grid-snake.svg)
+
