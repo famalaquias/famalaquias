@@ -45,4 +45,6 @@
   <a href="https://www.linkedin.com/in/fabiane-malaquias-00287a228/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo" />
   </a>
-<!--     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+  <a href="mailto:malaquiasfr@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+  </a>
