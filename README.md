@@ -37,6 +37,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="70" height="60"/>
 </div>
             
-      
-###  Contato
-<a href="https://www.linkedin.com/in/fabiane-malaquias-00287a228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+###
+<h1 align="left">Contato</h1>
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/fabiane-malaquias-00287a228/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo" />
+  </a>
+<!--     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
