@@ -1,4 +1,4 @@
-<h1 align="left">Olá, sou a Fabiane Malaquias!</h1>
+<h1 align="left">Olá, sou a Fabiane Malaquias!<img src="https://tenor.com/view/beautiful-so-gif-20428276" width="50"> </h1>
 
 ⚖️ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG.
 
