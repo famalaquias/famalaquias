@@ -1,4 +1,4 @@
-<h1 align="left">Olá, sou a Fabiane Malaquias!<img src="![image](https://user-images.githubusercontent.com/98343640/189505014-452f2eaf-f854-4f46-ae6c-8b17b5107c48.png)" width="50"> </h1>
+<h1 align="left">Olá, sou a Fabiane Malaquias!</h1>
 
 ⚖️ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG.
 
