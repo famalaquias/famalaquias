@@ -65,7 +65,7 @@
     </td>
       <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/nlw-esports-explorer">NLW eSports</a></h2>
-      <a href="https://famalaquias.github.io/nlw-esports-explorer/"><img width="100%" src="https://user-images.githubusercontent.com/98343640/190539474-583f8b4a-e4fa-433e-bb05-0e14b95b98e4.png" alt="Project-nlw-sports" /></a>
+      <a href="https://famalaquias.github.io/nlw-esports-explorer/"><img width="100%" src="![nlw](https://user-images.githubusercontent.com/98343640/192592595-807901c4-32af-42f6-b78e-25773c65598a.png)" alt="Project-nlw-sports" /></a>
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>Git e GitHub,HTML5, CSS3</em></p>
