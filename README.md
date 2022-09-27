@@ -40,7 +40,7 @@
 </div>
             
 ###
-<h1 align="left">Contato</h1>
+<h1 align="center">Contato</h1>
 
 ###
 <div align="left">
