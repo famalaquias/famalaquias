@@ -65,7 +65,7 @@
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (básico e simples),HTML, CSS, Sass, JavaScript</em></p>
-      <p> Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
+      <p>:man_technologist: Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
     </td>
   </tr>
 </table>
