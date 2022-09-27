@@ -50,7 +50,7 @@
 ###
 
 
-<h1 align="center">Meus Projetos</h1>
+<h1 align="left">Meus Projetos</h1>
 
 ###
 <table>
