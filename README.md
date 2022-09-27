@@ -60,16 +60,16 @@
       <a href="https://solar-system-nine.vercel.app/"><img width="100%" src="https://user-images.githubusercontent.com/98343640/188335443-a7cdaba7-2bb3-46a0-984b-0926de1a36ae.png" alt="Project-solar-system" /></a>
       <br>
       <br>
-      <p><strong>:wrench: Tools/Methodologies:</strong> <em>React (básico e simples),HTML, CSS, Sass, JavaScript</em></p>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>React (básico e simples),HTML, CSS, JavaScript</em></p>
       <p>:man_technologist: Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
     </td>
       <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/nlw-esports-explorer">NLW eSports</a></h2>
-      <a href="https://famalaquias.github.io/nlw-esports-explorer/"><img width="100%" src="https://user-images.githubusercontent.com/98343640/188335443-a7cdaba7-2bb3-46a0-984b-0926de1a36ae.png" alt="Project-solar-system" /></a>
+      <a href="https://famalaquias.github.io/nlw-esports-explorer/"><img width="100%" src="https://user-images.githubusercontent.com/98343640/190539474-583f8b4a-e4fa-433e-bb05-0e14b95b98e4.png" alt="Project-nlw-sports" /></a>
       <br>
       <br>
-      <p><strong>:wrench: Tools/Methodologies:</strong> <em>React (básico e simples),HTML, CSS, Sass, JavaScript</em></p>
-      <p>:man_technologist: Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>Git e GitHub,HTML5, CSS3</em></p>
+      <p>:man_technologist: Aplicação construíada no evento Next Level Week da Rocketseat</p>
     </td>
   </tr>
 </table>
