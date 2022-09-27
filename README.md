@@ -40,7 +40,7 @@
 </div>
             
 ###
-<h1 align="left">Contato</h1>
+<h1 align="left">Contatos</h1>
 
 ###
 <div align="left">
@@ -65,7 +65,7 @@
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>React (básico e simples),HTML, CSS, Sass, JavaScript</em></p>
-      <p>:man_technologist: Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
+      <p>:man_technologist:  Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
     </td>
   </tr>
 </table>
