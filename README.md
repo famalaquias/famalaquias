@@ -57,6 +57,18 @@
 <h1 align="center">Meus Projetos</h1>
 
 ###
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/famalaquias/solar-system">Solar System</a></h2>
+      <a href="https://solar-system-nine.vercel.app/"><img width="100%" src="https://user-images.githubusercontent.com/98343640/188335443-a7cdaba7-2bb3-46a0-984b-0926de1a36ae.png" alt="Project-solar-system" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (básico e simples),HTML, CSS, Sass, JavaScript</em></p>
+      <p> Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
+    </td>
+  </tr>
+</table>
 
 
 ##  
