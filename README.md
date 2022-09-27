@@ -1,4 +1,4 @@
-<h1 align="left">Olá, sou a Fabiane Malaquias!</h1>
+<h1 align="center">Olá, sou a Fabiane Malaquias!</h1>
 
 ⚖️ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG.
 
@@ -65,7 +65,7 @@
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>React (básico e simples),HTML, CSS, Sass, JavaScript</em></p>
-      <p>:man_technologist:  Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
+      <p>:man_technologist: Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
     </td>
   </tr>
 </table>
