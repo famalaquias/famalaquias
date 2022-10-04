@@ -6,7 +6,7 @@
 
 🌱 Sou uma amante da natureza.
 
-🐶 Apaixonada por animais.
+🐶 Apaixonada por animais chatos.
 
 🇧🇷 Sou de Minas Gerais/Brasil.     
 
