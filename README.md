@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou a Fabiane Malaquias! :octocat:</h1>
+<h1 align="center">Olá, sou a Fabiane Malaquias!</h1> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 
 ⚖️ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG.
