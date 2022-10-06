@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou a Fabiane Malaquias!</h1> :octocat:
+<h1 align="center">Olá, sou a Fabiane Malaquias! :octocat:</h1>
 
 
 ⚖️ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG.
