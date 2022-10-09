@@ -58,7 +58,7 @@
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/solar-system">Solar System</a></h2>
-      <a href="https://solar-system-nine.vercel.app/"><img width="300px" src="https://user-images.githubusercontent.com/98343640/192595483-fe6eb4f7-5285-45c3-9ecb-1f3ab36f9971.png" alt="Project-solar-system" /></a>
+      <a href="https://solar-system-nine.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/192595483-fe6eb4f7-5285-45c3-9ecb-1f3ab36f9971.png" alt="Project-solar-system" /></a>
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>React (básico e simples),HTML, CSS, JavaScript</em></p>
@@ -66,7 +66,7 @@
     </td>
       <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/nlw-esports-explorer">NLW eSports</a></h2>
-      <a href="https://famalaquias.github.io/nlw-esports-explorer/"><img width="300px" src="https://user-images.githubusercontent.com/98343640/192594734-69f73a1c-e5a1-4bba-afc1-ca417a22dfcd.png" alt="Project-nlw-sports" /></a>
+      <a href="https://famalaquias.github.io/nlw-esports-explorer/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/192594734-69f73a1c-e5a1-4bba-afc1-ca417a22dfcd.png" alt="Project-nlw-sports" /></a>
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>Git e GitHub,HTML5, CSS3</em></p>
