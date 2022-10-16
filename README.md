@@ -73,6 +73,17 @@
       <p>:man_technologist: Aplicação construíada no evento Next Level Week da Rocketseat</p>
     </td>
   </tr>
+  
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/famalaquias/ignate-lab">Ignite Lab</a></h2>
+      <a href="https://ignate-lab-tau.vercel.app/"><img width="500px" src="![README](https://user-images.githubusercontent.com/98343640/196012026-672fa895-059c-47b3-914c-dbfd6d8c1d93.png) " alt="Project-ignite-lab" /></a>
+      <br>
+      <br>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>HTML, CSS, React, TypeScript, Figma, Vite, Tailwind, Storybook</em></p>
+      <p>:man_technologist: Aplicação construíada no evento Ignite Lab da Rocketseat</p>
+    </td>
+  </tr>
 </table>
 
 
