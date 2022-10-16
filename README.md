@@ -77,7 +77,7 @@
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/ignate-lab">Ignite Lab</a></h2>
-      <a href="https://ignate-lab-tau.vercel.app/"><img width="500px" src="![README](https://user-images.githubusercontent.com/98343640/196012026-672fa895-059c-47b3-914c-dbfd6d8c1d93.png) " alt="Project-ignite-lab" /></a>
+      <a href="https://ignate-lab-tau.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/196012026-672fa895-059c-47b3-914c-dbfd6d8c1d93.png" alt="Project-ignite-lab" /></a>
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>HTML, CSS, React, TypeScript, Figma, Vite, Tailwind, Storybook</em></p>
