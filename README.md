@@ -76,6 +76,14 @@
   </tr>
   
   <tr>
+       <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/famalaquias/explorer-lab">Explorer Lab</a></h2>
+      <a href="https://explorer-lab-livid.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/196835018-e1840142-190b-4db3-96c7-151ccea67b3b.png" alt="Project-explorer-lab" /></a>
+      <br>
+      <br>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>HTML, CSS, JavaScript, Json, Node, NPM, Vite e iMask</em></p>
+      <p>:man_technologist: Aplicação construíada no evento Explorer Lab da Rocketseat</p>
+    </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/ignate-lab">Ignite Lab</a></h2>
       <a href="https://ignate-lab-tau.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/196012026-672fa895-059c-47b3-914c-dbfd6d8c1d93.png" alt="Project-ignite-lab" /></a>
@@ -83,14 +91,6 @@
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>HTML, CSS, React, TypeScript, Figma, Vite, Tailwind, Storybook</em></p>
       <p>:man_technologist: Aplicação construíada no evento Ignite Lab da Rocketseat</p>
-    </td>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/famalaquias/explorer-lab">Explorer Lab</a></h2>
-      <a href="https://explorer-lab-livid.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/196835018-e1840142-190b-4db3-96c7-151ccea67b3b.png" alt="Project-explorer-lab" /></a>
-      <br>
-      <br>
-      <p><strong>:wrench: Tools/Methodologies:</strong> <em>HTML, CSS, JavaScript, Json, Node, NPM, Vite e iMask</em></p>
-      <p>:man_technologist: Aplicação construíada no evento Explorer Lab da Rocketseat</p>
     </td>
   </tr>
 </table>
