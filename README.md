@@ -86,7 +86,7 @@
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/explorer-lab">Explorer Lab</a></h2>
-      <a href="https://explorer-lab-livid.vercel.app/"><img width="500px" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" alt="Project-ignite-lab" /></a>
+      <a href="https://explorer-lab-livid.vercel.app/"><img width="500px" src=".github/project.png" alt="Project-ignite-lab" /></a>
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>HTML, CSS, JavaScript, Json, Node, NPM, Vite e iMask</em></p>
