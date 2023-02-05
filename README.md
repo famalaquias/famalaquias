@@ -59,7 +59,7 @@
   <tr>
      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/waiterApp">WaiterApp</a></h2>
-      <img width="500px" src="![waiterapp](https://user-images.githubusercontent.com/98343640/216841494-992a3bc1-608d-4310-a95e-8cc4b0631f18.jpg)" />
+      <img width="500px" src="https://user-images.githubusercontent.com/98343640/216841494-992a3bc1-608d-4310-a95e-8cc4b0631f18.jpg" />
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>JavaScript, Node.js, TypeScript, Express, React, React Native, MongoDB, Mobile</em></p>
