@@ -77,20 +77,20 @@
   
   <tr>
       <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/famalaquias/nlw-esports-explorer">NLW eSports</a></h2>
-      <a href="https://nlw-esports-explorer-ten.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/192594734-69f73a1c-e5a1-4bba-afc1-ca417a22dfcd.png" alt="Project-nlw-sports" /></a>
+      <h2 align="center"><a href="https://github.com/famalaquias/netflix">Netflix</a></h2>
+      <a href="https://netflix-five-sand.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/209210065-90ab0d9a-f601-48d6-aef1-e47e4629b762.png" /></a>
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>Git e GitHub,HTML5, CSS3</em></p>
       <p>:man_technologist: Aplicação construíada no evento Next Level Week da Rocketseat</p>
     </td>
       <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/famalaquias/explorer-lab">Explorer Lab</a></h2>
-      <a href="https://explorer-lab-livid.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/196835018-e1840142-190b-4db3-96c7-151ccea67b3b.png" alt="Project-explorer-lab" /></a>
+      <h2 align="center"><a href="https://github.com/famalaquias/nlw-esports-explorer">NLW eSports</a></h2>
+      <a href="https://nlw-esports-explorer-ten.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/192594734-69f73a1c-e5a1-4bba-afc1-ca417a22dfcd.png" alt="Project-nlw-sports" /></a>
       <br>
       <br>
-      <p><strong>:wrench: Tools/Methodologies:</strong> <em>HTML, CSS, JavaScript, Json, Node, NPM, Vite e iMask</em></p>
-      <p>:man_technologist: Aplicação construíada no evento Explorer Lab da Rocketseat</p>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>Git e GitHub,HTML5, CSS3</em></p>
+      <p>:man_technologist: Aplicação construíada no evento Next Level Week da Rocketseat</p>
     </td>
   </tr>
 </table>
