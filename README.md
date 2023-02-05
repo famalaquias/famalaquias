@@ -64,10 +64,8 @@
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>JavaScript, Node.js, TypeScript, Express, React, React Native, MongoDB, Mobile</em></p>
       <p>:man_technologist: Aplicação construíada no evento Next Level Week da Rocketseat</p>
-    </td>
-              
-              
-    <td valign="top" width="50%">
+    </td>           
+      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/solar-system">Solar System</a></h2>
       <a href="https://solar-system-nine.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/192595483-fe6eb4f7-5285-45c3-9ecb-1f3ab36f9971.png" alt="Project-solar-system" /></a>
       <br>
