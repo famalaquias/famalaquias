@@ -67,7 +67,7 @@
     </td>           
       <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/app-lunaticnotes">LunaticNotes</a></h2>
-      <a href="https://app-lunaticnotes.vercel.app/"><img width="500px" src="![lunaticNotes](https://user-images.githubusercontent.com/98343640/234721715-49435d5b-bbc7-46ea-8d12-b76523c2e4b6.png)" alt="Project-lunaticNotes" /></a>
+      <a href="https://app-lunaticnotes.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/234721715-49435d5b-bbc7-46ea-8d12-b76523c2e4b6.png" alt="Project-lunaticNotes" /></a>
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>React, HTML, CSS, JavaScript, Vite, Axios, Styled Components, React Icons, React Router, sqlite3, Express,Bcryptjs, Cors, Knex, Jsonwebtoken, Multer</em></p>
