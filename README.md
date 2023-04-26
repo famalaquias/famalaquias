@@ -59,13 +59,13 @@
   <tr>
      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/waiterApp">WaiterApp</a></h2>
-      <img width="500px" src="https://user-images.githubusercontent.com/98343640/216841494-992a3bc1-608d-4310-a95e-8cc4b0631f18.jpg" />
+      <img width="500px" src="https://user-images.githubusercontent.com/98343640/234722596-6ab59617-205c-4175-b2c9-d403cc1fb91b.png" />
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>JavaScript, Node.js, TypeScript, Express, React, React Native, MongoDB, Mobile</em></p>
-      <p>:man_technologist: Aplicação construíada no evento Next Level Week da Rocketseat</p>
+      <p>:man_technologist: Aplicativo desenvolvido para garçons</p>
     </td>           
-      <td valign="top" width="500%">
+      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/app-lunaticnotes">LunaticNotes</a></h2>
       <a href="https://app-lunaticnotes.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/234721715-49435d5b-bbc7-46ea-8d12-b76523c2e4b6.png" alt="Project-lunaticNotes" /></a>
       <br>
