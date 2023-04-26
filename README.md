@@ -66,12 +66,12 @@
       <p>:man_technologist: Aplicação construíada no evento Next Level Week da Rocketseat</p>
     </td>           
       <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/famalaquias/solar-system">Solar System</a></h2>
-      <a href="https://solar-system-nine.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/192595483-fe6eb4f7-5285-45c3-9ecb-1f3ab36f9971.png" alt="Project-solar-system" /></a>
+      <h2 align="center"><a href="https://github.com/famalaquias/app-lunaticnotes">LunaticNotes</a></h2>
+      <a href="https://app-lunaticnotes.vercel.app/"><img width="500px" src="![lunaticNotes](https://user-images.githubusercontent.com/98343640/234721715-49435d5b-bbc7-46ea-8d12-b76523c2e4b6.png)" alt="Project-lunaticNotes" /></a>
       <br>
       <br>
-      <p><strong>:wrench: Tools/Methodologies:</strong> <em>React (básico e simples),HTML, CSS, JavaScript</em></p>
-      <p>:man_technologist: Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>React, HTML, CSS, JavaScript, Vite, Axios, Styled Components, React Icons, React Router, sqlite3, Express,Bcryptjs, Cors, Knex, Jsonwebtoken, Multer</em></p>
+      <p>:man_technologist: Aplicativo desenvolvido para criação de notas</p>
     </td>
   </tr>
   
@@ -85,12 +85,12 @@
       <p>:man_technologist: Aplicação construíada no evento Next Level Week da Rocketseat</p>
     </td>
       <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/famalaquias/nlw-esports-explorer">NLW eSports</a></h2>
-      <a href="https://nlw-esports-explorer-ten.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/192594734-69f73a1c-e5a1-4bba-afc1-ca417a22dfcd.png" alt="Project-nlw-sports" /></a>
+      <h2 align="center"><a href="https://github.com/famalaquias/solar-system">Solar System</a></h2>
+      <a href="https://solar-system-nine.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/192595483-fe6eb4f7-5285-45c3-9ecb-1f3ab36f9971.png" alt="Project-solar-system" /></a>
       <br>
       <br>
-      <p><strong>:wrench: Tools/Methodologies:</strong> <em>Git e GitHub,HTML5, CSS3</em></p>
-      <p>:man_technologist: Aplicação construíada no evento Next Level Week da Rocketseat</p>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>React (básico e simples),HTML, CSS, JavaScript</em></p>
+      <p>:man_technologist: Aplicação de um Modelo do Sistema Solar capaz de visualizar todos os planetas</p>
     </td>
   </tr>
 </table>
