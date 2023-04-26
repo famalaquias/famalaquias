@@ -86,7 +86,7 @@
     </td>
       <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/solar-system">Solar System</a></h2>
-      <a href="https://solar-system-nine.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/192595483-fe6eb4f7-5285-45c3-9ecb-1f3ab36f9971.png" alt="Project-solar-system" /></a>
+      <a href="https://solar-system-nine.vercel.app/"><img width="500px" src="https://user-images.githubusercontent.com/98343640/234723423-ce061599-304f-4fc5-945a-363386fdf8a0.png" alt="Project-solar-system" /></a>
       <br>
       <br>
       <p><strong>:wrench: Tools/Methodologies:</strong> <em>React (básico e simples),HTML, CSS, JavaScript</em></p>
