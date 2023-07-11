@@ -1,6 +1,9 @@
 <h1 align="center">Olá, sou a Fabiane Malaquias!<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 
 
+<img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47llnn0i7wk7gr21m12b05zfa31jfz70oi2tck0pxh&rid=giphy.gif&ct=g" width="100%" height="auto" frameBorder="0">
+
+
 ⚖️ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG.
 
 💻 Estou em transição de carreira e, atualmente, estou aprendendo Desenvolvimento Web Full Stack na Trybe.
