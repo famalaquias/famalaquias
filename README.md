@@ -11,9 +11,13 @@
 
 ###
 
-<img align="right" src="https://github.com/famalaquias/famalaquias/assets/98343640/9ec476df-e7d8-439e-83ec-8c68e7d28cc8.gif" width="250" height="250">
+<img align="right" src="https://github.com/famalaquias/famalaquias/assets/98343640/9ec476df-e7d8-439e-83ec-8c68e7d28cc8.gif" width="200" height="200">
 
-Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG. Em 2022 resolvi fazer transição de carreira para área de tecnologia e, atualmente, sou uma Desenvolvedora Web Full Stack formada pela Trybe. Sou das Minas de Ouro, das Montanhas Gerais e sou apaixonada por tencologia, por livros, por animais e pela natureza. Além disso, sou dedicada, comunicativa e bastante comprometida com o que faço. Descobri com a programação que adoro enfrentar desafios e resolver problemas.
+Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG. Em 2022 resolvi fazer transição de carreira para área de tecnologia e, atualmente, sou uma Desenvolvedora Web Full Stack formada pela Trybe. Sou das Minas de Ouro, das Montanhas Gerais e sou apaixonada por tencologia, por livros, por animais (tenho dois filhinhos de quatro patas) e pela natureza. Além disso, sou dedicada, comunicativa e bastante comprometida com o que faço. Com a programação descobri que adoro enfrentar desafios e resolver problemas.
+
+
+* * *
+
 
 ###
 <h1 align="left">Tecnologias e Ferramentas</h1>
