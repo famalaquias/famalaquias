@@ -4,20 +4,16 @@
 
 
 * * *
-<br>
+
+
+###
+<h1 align="left">Sobre Mim</h1>
+
+###
 
 <img align="right" src="https://github.com/famalaquias/famalaquias/assets/98343640/9ec476df-e7d8-439e-83ec-8c68e7d28cc8.gif" width="250" height="250">
 
-⚖️ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG.
-
-💻 Estou em transição de carreira e, atualmente, estou aprendendo Desenvolvimento Web Full Stack na Trybe.
-
-🌱 Sou uma amante da natureza.
-
-🐶 Apaixonada por animais.
-
-🇧🇷 Sou de Minas Gerais/Brasil.     
-
+Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG. Em 2022 resolvi fazer transição de carreira para área de tecnologia e, atualmente, sou uma Desenvolvedora Web Full Stack formada pela Trybe. Sou das Minas de Ouro, das Montanhas Gerais e sou apaixonada por tencologia, por livros, por animais e pela natureza. Além disso, sou dedicada, comunicativa e bastante comprometida com o que faço. Descobri com a programação que adoro enfrentar desafios e resolver problemas.
 
 ###
 <h1 align="left">Tecnologias e Ferramentas</h1>
