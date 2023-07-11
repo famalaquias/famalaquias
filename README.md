@@ -1,8 +1,12 @@
-<h1 align="center">Olá, sou a Fabiane Malaquias!<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
-
+<h1 align="center">Olá, sou a Fabiane Malaquias!</h1> 
 
 <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47llnn0i7wk7gr21m12b05zfa31jfz70oi2tck0pxh&rid=giphy.gif&ct=g" width="100%" height="auto" frameBorder="0">
 
+
+* * *
+<br>
+
+<img align="right" src="https://github.com/famalaquias/famalaquias/assets/98343640/9ec476df-e7d8-439e-83ec-8c68e7d28cc8.gif" width="250" height="250">
 
 ⚖️ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG.
 
