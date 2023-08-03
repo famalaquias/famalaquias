@@ -64,6 +64,25 @@ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG. Em 20
 
 ###
 <table>
+   <tr>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/famalaquias/IgniteTeams/tree/main">IgniteTeams</a></h2>
+      <img width="500px" src="https://github.com/famalaquias/famalaquias/assets/98343640/6ab62e8e-dcd3-4e2f-b5a4-8195717959f0" />
+      <br>
+      <br>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>TypeScript, React Native, Async Storage, Styled Components, Mobile</em></p>
+      <p>:man_technologist: Aplicativo desenvolvido para organizar times para jogos com os amigos.</p>
+    </td>           
+      <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/famalaquias/ToDoList">ToDo List</a></h2>
+      <a href="https://todolist-iproject.netlify.app/"><img width="500px" src="https://github.com/famalaquias/famalaquias/assets/98343640/93abfc48-d17d-4323-a653-319425d524ea"/></a>
+      <br>
+      <br>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>React, HTML, CSS, JavaScript, Vite, Axios, Styled Components, React Icons, React Router, sqlite3, Express,Bcryptjs, Cors, Knex, Jsonwebtoken, Multer</em></p>
+      <p>:man_technologist: Aplicativo desenvolvido para criação de notas</p>
+    </td>
+  </tr>
+  
   <tr>
      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/famalaquias/waiterApp">WaiterApp</a></h2>
