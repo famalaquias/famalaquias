@@ -60,23 +60,6 @@ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG. Em 20
 
 
 * * *
-
-            
-###
-<h1 align="left">Contatos</h1>
-
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/fabiane-malaquias-00287a228/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo" />
-  </a>
-  <a href="mailto:malaquiasfr@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
-  </a>
-       
-###
-
-
 <h1 align="left">Meus Projetos</h1>
 
 ###
