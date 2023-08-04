@@ -66,20 +66,20 @@ Sou graduada em Direito pela Universidade Estadual de Minas Gerais - UEMG. Em 20
 <table>
    <tr>
      <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/famalaquias/IgniteTeams/tree/main">IgniteTeams</a></h2>
-      <img width="500px" src="https://github.com/famalaquias/famalaquias/assets/98343640/6ab62e8e-dcd3-4e2f-b5a4-8195717959f0" />
+      <h2 align="center"><a href="https://github.com/famalaquias/IgniteTeams/tree/main">IgniteTimer</a></h2>
+      <a href="https://ignite-timer-eight-swart.vercel.app/"><img width="500px" src="https://github.com/famalaquias/famalaquias/assets/98343640/6ab62e8e-dcd3-4e2f-b5a4-8195717959f0"/></a>
       <br>
       <br>
-      <p><strong>:wrench: Tools/Methodologies:</strong> <em>TypeScript, React Native, Async Storage, Styled Components, Mobile</em></p>
-      <p>:man_technologist: Aplicativo desenvolvido para organizar times para jogos com os amigos.</p>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>TypeScript, ReactJS, Vite, Styled Components, Zod</em></p>
+      <p>:man_technologist: Aplicativo desenvolvido para ajudar na organização do tempo de execução de tarefas.</p>
     </td>           
       <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/famalaquias/ToDoList">ToDo List</a></h2>
+      <h2 align="center"><a href="https://github.com/famalaquias/ToDoList">ToDoList</a></h2>
       <a href="https://todolist-iproject.netlify.app/"><img width="500px" src="https://github.com/famalaquias/famalaquias/assets/98343640/93abfc48-d17d-4323-a653-319425d524ea"/></a>
       <br>
       <br>
-      <p><strong>:wrench: Tools/Methodologies:</strong> <em>React, HTML, CSS, JavaScript, Vite, Axios, Styled Components, React Icons, React Router, sqlite3, Express,Bcryptjs, Cors, Knex, Jsonwebtoken, Multer</em></p>
-      <p>:man_technologist: Aplicativo desenvolvido para criação de notas</p>
+      <p><strong>:wrench: Tools/Methodologies:</strong> <em>HTML, CSS, TypeScript, ReactJS, Vite, uuidv4</em></p>
+      <p>:man_technologist: Aplicativo desenvolvido para controle de tarefas no estilo to-do list(lista de tarefas).</p>
     </td>
   </tr>
   
